@@ -15,7 +15,6 @@ export const CarritoProvider = ({children}) => {
             console.log("Producto ya agregado");
         }
 
-
     }
 
 

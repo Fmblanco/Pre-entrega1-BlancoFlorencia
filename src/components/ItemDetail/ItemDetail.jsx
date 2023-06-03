@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./ItemDetail.css"
 import ItemCount from "../ItemCount/ItemCount";
 import { Link } from "react-router-dom";
-import { CarritoContext } from "../Context/CarritoContext";
+import { CarritoContext } from "../../context/CarritoContext";
 import { useContext } from "react";
 
 
