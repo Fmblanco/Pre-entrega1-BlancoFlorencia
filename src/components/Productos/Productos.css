@@ -1,0 +1,25 @@
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.producto{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.producto h2{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+} 
+
+.producto p {
+    margin: 10px 0;
+
+}
